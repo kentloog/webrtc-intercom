@@ -11,4 +11,5 @@ backup*
 firebase_config.json
 client_secret.json
 proxy_config.json
+twilio_config.json
 *.log
