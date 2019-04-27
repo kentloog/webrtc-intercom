@@ -1,0 +1,8 @@
+{
+	"name": "WebRTC Intercom",
+	"short_name": "WebRTC Intercom",
+	"start_url": "/index.html",
+	"display": "standalone",
+	"orientation": "portrait",
+	"gcm_sender_id": "230441514026"
+}

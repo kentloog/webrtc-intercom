@@ -1,0 +1,6 @@
+{
+    "accountSid": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "authToken": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "twilioPhoneNumber": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "userPhoneNumber": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+}
